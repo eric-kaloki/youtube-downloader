@@ -13,23 +13,19 @@ To install the required packages, create a virtual environment (optional) and ru
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Running on Windows OS
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd pytube
-   ```
-2. Create a virtual environment (optional):
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate
-   ```
-3. Install the required packages:
+   git clone https://github.com/eric-kaloki/youtube-downloader.git
+   cd youtube-downloader
+
+2. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the application:
+3. Run the application:
    ```bash
    python download.py
    ```
@@ -37,8 +33,8 @@ pip install -r requirements.txt
 ## Running on Linux OS
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd pytube
+   git clone https://github.com/eric-kaloki/youtube-downloader.git
+   cd youtube-downloader
    ```
 2. Create a virtual environment (optional):
    ```bash
